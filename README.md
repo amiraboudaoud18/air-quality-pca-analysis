@@ -3,6 +3,12 @@
 ## 📖 Overview
 This project applies Principal Component Analysis (PCA) to analyze and visualize air quality data collected in an Italian city over one year. PCA was used to reduce dimensionality, detect patterns, and better understand the relationships between environmental measurements and pollution levels.
 
+## 📂 Files Included
+
+- `air_quality_pca_analysis.ipynb` — Main Jupyter Notebook containing all data preprocessing, PCA analysis, and visualizations.
+- `air_quality_pca_analysis_report.pdf` — Detailed project report describing the dataset, methodology, results, and interpretations.
+
+
 ## 🛠️ Technologies
 - Python
 - NumPy
